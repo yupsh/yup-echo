@@ -1,21 +1,9 @@
-# yup-echo
+[![actions](https://github.com/yupsh/yup-echo/actions/workflows/actions.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/actions.yml)
+[![ci](https://github.com/yupsh/yup-echo/actions/workflows/ci.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/ci.yml)
+[![dockerfiles](https://github.com/yupsh/yup-echo/actions/workflows/dockerfiles.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/dockerfiles.yml)
+[![docs](https://github.com/yupsh/yup-echo/actions/workflows/docs.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/docs.yml)
+[![go](https://github.com/yupsh/yup-echo/actions/workflows/go.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/go.yml)
+[![release](https://github.com/yupsh/yup-echo/actions/workflows/release.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/release.yml)
+[![shell](https://github.com/yupsh/yup-echo/actions/workflows/shell.yml/badge.svg)](https://github.com/yupsh/yup-echo/actions/workflows/shell.yml)
 
-```
-NAME:
-   echo - display a line of text
-
-USAGE:
-   echo [OPTIONS] [STRING...]
-
-   echo the STRING(s) to standard output, separated by single spaces.
-
-VERSION:
-   dev
-
-GLOBAL OPTIONS:
-   --no-newline, -n  do not output the trailing newline
-   --escapes, -e     enable interpretation of backslash escapes
-   --no-escapes, -E  disable interpretation of backslash escapes (default)
-   --help, -h        show help
-   --version         print version information and exit
-```
+[docs](https://yupsh.github.io/docs.repl/)
